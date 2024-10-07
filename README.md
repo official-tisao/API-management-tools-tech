@@ -1,5 +1,5 @@
-# API-management-tools-tech
-API-management tools and/or technology
+# API-management-tools-technologies
+API-management tools or technologies
 
 
 # Top Tools for API Management
